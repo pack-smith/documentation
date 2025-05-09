@@ -1,6 +1,6 @@
 # ❓ What is PackSmith
 
-**PackSmith** is a minimal, opinionated toolkit for creating clean, reusable JavaScript/TypeScript packages — without framework lock-in or repetitive setup.
+**PackSmith** is a minimal, opinionated library for creating clean, reusable JavaScript/TypeScript packages — without framework lock-in or repetitive setup.
 
 It’s designed specifically for developers who want to publish framework-agnostic libraries: utilities, helpers, core logic modules, or SDKs that should work across any JavaScript environment — frontend or backend.
 
@@ -124,8 +124,6 @@ This layout encourages:
 * **Maintainability** (easy to understand across teams)
 
 Every part is there for a reason — no fluff, no mystery files.
-
-Here's an enhanced version of the **Summary** section:
 
 ## Summary
 
