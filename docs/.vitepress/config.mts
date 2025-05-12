@@ -13,7 +13,8 @@ export default defineConfig({
     },
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Guide', link: '/guide/quick-start', activeMatch: '/guide/' }
+      { text: 'Guide', link: '/guide/quick-start', activeMatch: '/guide/' },
+      { text: '0.0.9', link: '' }
     ],
 
     sidebar: [
@@ -26,11 +27,16 @@ export default defineConfig({
           { text: 'Configuration', link: '/guide/config' }
         ]
       },
+      {
+        text: 'Utilities',
+        collapsed: false,
+        link: '/guide/utilities',
+      },
       // Add more sections as needed
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/Gazi2050/PackSmith' },
+      { icon: 'github', link: 'https://github.com/pack-smith/PackSmith' },
       { icon: 'npm', link: 'https://www.npmjs.com/package/packsmith' }
     ]
   }
