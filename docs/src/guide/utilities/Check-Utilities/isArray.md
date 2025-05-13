@@ -14,4 +14,5 @@ Checks whether the provided value is an array or not.
 
 ```ts
 isArray([1, 2]); // true
+isArray('hello'); // false
 ```
