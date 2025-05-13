@@ -31,8 +31,15 @@ export default defineConfig({
         text: 'Utilities',
         collapsed: false,
         link: '/guide/utilities',
+        items: [
+          { text: 'Check Utilities', link: '/' },
+          { text: 'Array Utilities', link: '/' },
+          { text: 'String Utilities', link: '/' },
+          { text: 'Number Utilities', link: '/' },
+          { text: 'Date Utilities', link: '/' },
+          { text: 'Math Utilities', link: '/' },
+        ]
       },
-      // Add more sections as needed
     ],
 
     socialLinks: [
