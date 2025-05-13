@@ -38,6 +38,7 @@ export default defineConfig({
             collapsed: false,
             items: [
               { text: 'isArray', link: '/guide/utilities/Check-Utilities/isArray' },
+              { text: 'isBoolean', link: '/guide/utilities/Check-Utilities/isBoolean' },
             ]
           },
           { text: 'Array Utilities', link: '/' },
