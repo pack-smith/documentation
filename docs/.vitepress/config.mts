@@ -40,6 +40,7 @@ export default defineConfig({
               { text: 'isArray', link: '/guide/utilities/Check-Utilities/isArray' },
               { text: 'isBoolean', link: '/guide/utilities/Check-Utilities/isBoolean' },
               { text: 'isEmpty', link: '/guide/utilities/Check-Utilities/isEmpty' },
+              { text: 'isFunction', link: '/guide/utilities/Check-Utilities/isFunction' },
             ]
           },
           { text: 'Array Utilities', link: '/' },
