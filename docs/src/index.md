@@ -33,5 +33,3 @@ features:
   - icon: 🛠️
     title: Built-in Utilities
     details: Handy functions for strings, arrays, dates, and more. Fewer dependencies, cleaner code.
-
----
