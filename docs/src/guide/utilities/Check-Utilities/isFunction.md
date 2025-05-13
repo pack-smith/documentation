@@ -1,6 +1,6 @@
 # isFunction
 
-Checks whether the provided value is a function or not.
+Checks whether the provided value is a `function`.
 
 ## Parameters
 

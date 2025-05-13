@@ -1,6 +1,6 @@
 # isBoolean
 
-Checks whether the provided value is a boolean or not.
+Checks whether the provided value is a `boolean`.
 
 ## Parameters
 

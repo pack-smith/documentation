@@ -1,6 +1,6 @@
 # isArray
 
-Checks whether the provided value is an array or not.
+Checks whether the provided value is an `array`.
 
 ## Parameters
 

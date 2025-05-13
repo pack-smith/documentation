@@ -1,6 +1,6 @@
 # isEmpty
 
-Checks if the provided value is empty. A value is considered empty if it is null, undefined, an empty string, an empty array, or an empty object.
+Checks if the provided value is `empty`. A value is considered empty if it is `null`, `undefined`, an empty `string`, an empty `array`, or an empty `object`.
 
 ## Parameters
 
