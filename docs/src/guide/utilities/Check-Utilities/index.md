@@ -2,7 +2,7 @@
 
 A collection of type-checking and validation utilities that help ensure consistent handling of data types and structures. These tools promote safer, more predictable logic by enabling clear distinctions between values such as arrays, objects, strings, and more.
 
-### Utility List
+## Utility List
 - [**`isArray`**](/guide/utilities/Check-Utilities/isArray)
 - [**`isBoolean`**](/guide/utilities/Check-Utilities/isBoolean)
 - [**`isEmpty`**](/guide/utilities/Check-Utilities/isEmpty)
