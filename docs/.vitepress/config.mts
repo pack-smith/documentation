@@ -32,7 +32,14 @@ export default defineConfig({
         collapsed: false,
         link: '/guide/utilities',
         items: [
-          { text: 'Check Utilities', link: '/' },
+          {
+            text: 'Check Utilities',
+            link: '/guide/utilities/Check-Utilities',
+            collapsed: false,
+            items: [
+              { text: 'isArray', link: '/guide/utilities/Check-Utilities/isArray' },
+            ]
+          },
           { text: 'Array Utilities', link: '/' },
           { text: 'String Utilities', link: '/' },
           { text: 'Number Utilities', link: '/' },
