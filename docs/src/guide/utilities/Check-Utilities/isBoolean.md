@@ -2,16 +2,16 @@
 
 Checks whether the provided value is a boolean or not.
 
-**Parameters:**
+## Parameters
 
 * `value` (`unknown`): 
 The value to check, which can be of any type (e.g., string, number, boolean, object).
 
-**Returns:**
+## Returns
 
 * `boolean`: `true` if the value is a boolean, otherwise `false`.
 
-**Usage:**
+## Usage
 
 ```ts
 isBoolean(true); // true
