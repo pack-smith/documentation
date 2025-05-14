@@ -47,7 +47,14 @@ export default defineConfig({
               { text: 'isString', link: '/guide/utilities/Check-Utilities/isString' },
             ]
           },
-          { text: 'Array Utilities', link: '/' },
+          {
+            text: 'Array Utilities',
+            link: '/guide/utilities/Array-Utilities',
+            collapsed: false,
+            items: [
+              { text: 'addUniqueItem', link: '/guide/utilities/Array-Utilities/addUniqueItem' },
+            ]
+          },
           { text: 'String Utilities', link: '/' },
           { text: 'Number Utilities', link: '/' },
           { text: 'Date Utilities', link: '/' },
