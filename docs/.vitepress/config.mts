@@ -44,6 +44,7 @@ export default defineConfig({
               { text: 'isNull', link: '/guide/utilities/Check-Utilities/isNull' },
               { text: 'isNumber', link: '/guide/utilities/Check-Utilities/isNumber' },
               { text: 'isObject', link: '/guide/utilities/Check-Utilities/isObject' },
+              { text: 'isString', link: '/guide/utilities/Check-Utilities/isString' },
             ]
           },
           { text: 'Array Utilities', link: '/' },
