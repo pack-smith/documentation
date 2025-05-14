@@ -57,6 +57,7 @@ export default defineConfig({
               { text: 'hasAnyItem', link: '/guide/utilities/Array-Utilities/hasAnyItem' },
               { text: 'includesItem', link: '/guide/utilities/Array-Utilities/includesItem' },
               { text: 'mergeArrays', link: '/guide/utilities/Array-Utilities/mergeArrays' },
+              { text: 'removeDuplicates', link: '/guide/utilities/Array-Utilities/removeDuplicates' },
             ]
           },
           { text: 'String Utilities', link: '/' },
