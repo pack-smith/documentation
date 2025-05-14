@@ -54,6 +54,7 @@ export default defineConfig({
             items: [
               { text: 'addUniqueItem', link: '/guide/utilities/Array-Utilities/addUniqueItem' },
               { text: 'areArraysEqual', link: '/guide/utilities/Array-Utilities/areArraysEqual' },
+              { text: 'hasAnyItem', link: '/guide/utilities/Array-Utilities/hasAnyItem' },
             ]
           },
           { text: 'String Utilities', link: '/' },
