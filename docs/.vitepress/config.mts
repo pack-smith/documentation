@@ -56,6 +56,7 @@ export default defineConfig({
               { text: 'areArraysEqual', link: '/guide/utilities/Array-Utilities/areArraysEqual' },
               { text: 'hasAnyItem', link: '/guide/utilities/Array-Utilities/hasAnyItem' },
               { text: 'includesItem', link: '/guide/utilities/Array-Utilities/includesItem' },
+              { text: 'mergeArrays', link: '/guide/utilities/Array-Utilities/mergeArrays' },
             ]
           },
           { text: 'String Utilities', link: '/' },
