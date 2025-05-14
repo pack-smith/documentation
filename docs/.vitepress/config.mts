@@ -42,6 +42,7 @@ export default defineConfig({
               { text: 'isEmpty', link: '/guide/utilities/Check-Utilities/isEmpty' },
               { text: 'isFunction', link: '/guide/utilities/Check-Utilities/isFunction' },
               { text: 'isNull', link: '/guide/utilities/Check-Utilities/isNull' },
+              { text: 'isNumber', link: '/guide/utilities/Check-Utilities/isNumber' },
             ]
           },
           { text: 'Array Utilities', link: '/' },

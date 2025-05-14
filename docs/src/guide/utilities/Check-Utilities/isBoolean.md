@@ -5,7 +5,7 @@ Checks whether the provided value is a `boolean`.
 ## Parameters
 
 * `value` (`unknown`): 
-The value to check, which can be of any type (e.g., string, number, boolean, object).
+The value to check, which can be of any type.
 
 ## Returns
 
