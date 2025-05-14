@@ -53,6 +53,7 @@ export default defineConfig({
             collapsed: false,
             items: [
               { text: 'addUniqueItem', link: '/guide/utilities/Array-Utilities/addUniqueItem' },
+              { text: 'areArraysEqual', link: '/guide/utilities/Array-Utilities/areArraysEqual' },
             ]
           },
           { text: 'String Utilities', link: '/' },
