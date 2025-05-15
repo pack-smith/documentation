@@ -99,7 +99,15 @@ export default defineConfig({
               { text: 'timeAgo', link: '/guide/utilities/Date-Utilities/timeAgo' },
             ]
           },
-          { text: 'Math Utilities', link: '/' },
+          {
+            text: 'Math Utilities',
+            link: '/guide/utilities/Math-Utilities',
+            collapsed: false,
+            items: [
+              { text: 'average', link: '/guide/utilities/Math-Utilities/average' },
+              { text: 'calculate', link: '/guide/utilities/Math-Utilities/calculate' },
+            ]
+          },
         ]
       },
     ],

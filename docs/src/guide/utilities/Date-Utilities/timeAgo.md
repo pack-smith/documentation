@@ -36,5 +36,4 @@ timeAgo(fourMonthsAgo);
 const twoYearsAgo = new Date(Date.now() - 720 * 24 * 60 * 60 * 1000);
 timeAgo(twoYearsAgo);
 // "2 years ago"
-
 ```
