@@ -74,6 +74,18 @@ export default defineConfig({
               { text: 'truncateString', link: '/guide/utilities/String-Utilities/truncateString' },
             ]
           },
+          {
+            text: 'Number Utilities',
+            link: '/guide/utilities/Number-Utilities',
+            collapsed: false,
+            items: [
+              { text: 'getNumberType', link: '/guide/utilities/Number-Utilities/getNumberType' },
+              { text: 'getParity', link: '/guide/utilities/Number-Utilities/getParity' },
+              { text: 'getSign', link: '/guide/utilities/Number-Utilities/getSign' },
+              { text: 'isInRange', link: '/guide/utilities/Number-Utilities/isInRange' },
+              { text: 'shortenNumber', link: '/guide/utilities/Number-Utilities/shortenNumber' },
+            ]
+          },
           { text: 'Number Utilities', link: '/' },
           { text: 'Date Utilities', link: '/' },
           { text: 'Math Utilities', link: '/' },
