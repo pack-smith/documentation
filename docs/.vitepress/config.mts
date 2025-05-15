@@ -86,7 +86,6 @@ export default defineConfig({
               { text: 'shortenNumber', link: '/guide/utilities/Number-Utilities/shortenNumber' },
             ]
           },
-          { text: 'Number Utilities', link: '/' },
           { text: 'Date Utilities', link: '/' },
           { text: 'Math Utilities', link: '/' },
         ]
