@@ -66,7 +66,12 @@ export default defineConfig({
             link: '/guide/utilities/String-Utilities',
             collapsed: false,
             items: [
-              { text: 'addUniqueItem', link: '/guide/utilities/Array-Utilities/addUniqueItem' },
+              { text: 'countWords', link: '/guide/utilities/String-Utilities/countWords' },
+              { text: 'isAnagram', link: '/guide/utilities/String-Utilities/isAnagram' },
+              { text: 'isPalindrome', link: '/guide/utilities/String-Utilities/isPalindrome' },
+              { text: 'replaceString', link: '/guide/utilities/String-Utilities/replaceString' },
+              { text: 'reverseString', link: '/guide/utilities/String-Utilities/reverseString' },
+              { text: 'truncateString', link: '/guide/utilities/String-Utilities/truncateString' },
             ]
           },
           { text: 'Number Utilities', link: '/' },
