@@ -21,8 +21,8 @@ export default defineConfig({
       {
         text: 'Introduction',
         collapsed: false,
+        link: '/guide/what-is-packsmith',
         items: [
-          { text: 'What is PackSmith', link: '/guide/what-is-packsmith' },
           { text: 'Getting Started', link: '/guide/quick-start' },
           { text: 'Configuration', link: '/guide/config' }
         ]
