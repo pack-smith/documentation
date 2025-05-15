@@ -3,10 +3,10 @@
 A collection of string manipulation utilities that support structured processing of textual content, including analysis, formatting, and transformation tasks.
 
 ## Utility List
-- [**`addUniqueItem`**](/guide/utilities/Array-Utilities/addUniqueItem)
-- [**`areArraysEqual`**](/guide/utilities/Array-Utilities/areArraysEqual)
-- [**`hasAnyItem`**](/guide/utilities/Array-Utilities/hasAnyItem)
-- [**`includesItem`**](/guide/utilities/Array-Utilities/includesItem)
-- [**`mergeArrays`**](/guide/utilities/Array-Utilities/mergeArrays)
-- [**`removeDuplicates`**](/guide/utilities/Array-Utilities/removeDuplicates)
-- [**`removeItem`**](/guide/utilities/Array-Utilities/removeItem)
+- [**`countWords`**](/guide/utilities/String-Utilities/countWords)
+- [**`isAnagram`**](/guide/utilities/String-Utilities/isAnagram)
+- [**`isPalindrome`**](/guide/utilities/String-Utilities/isPalindrome)
+- [**`replaceString`**](/guide/utilities/String-Utilities/replaceString)
+- [**`reverseString`**](/guide/utilities/String-Utilities/reverseString)
+- [**`truncateString`**](/guide/utilities/String-Utilities/truncateString)
+
