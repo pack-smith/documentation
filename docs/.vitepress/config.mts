@@ -61,7 +61,14 @@ export default defineConfig({
               { text: 'removeItem', link: '/guide/utilities/Array-Utilities/removeItem' },
             ]
           },
-          { text: 'String Utilities', link: '/' },
+          {
+            text: 'String Utilities',
+            link: '/guide/utilities/String-Utilities',
+            collapsed: false,
+            items: [
+              { text: 'addUniqueItem', link: '/guide/utilities/Array-Utilities/addUniqueItem' },
+            ]
+          },
           { text: 'Number Utilities', link: '/' },
           { text: 'Date Utilities', link: '/' },
           { text: 'Math Utilities', link: '/' },
