@@ -86,7 +86,19 @@ export default defineConfig({
               { text: 'shortenNumber', link: '/guide/utilities/Number-Utilities/shortenNumber' },
             ]
           },
-          { text: 'Date Utilities', link: '/' },
+          {
+            text: 'Date Utilities',
+            link: '/guide/utilities/Date-Utilities',
+            collapsed: false,
+            items: [
+              { text: 'formatDate', link: '/guide/utilities/Date-Utilities/formatDate' },
+              { text: 'getDateStatus', link: '/guide/utilities/Date-Utilities/getDateStatus' },
+              { text: 'isInCurrent', link: '/guide/utilities/Date-Utilities/isInCurrent' },
+              { text: 'isRelativeDay', link: '/guide/utilities/Date-Utilities/isRelativeDay' },
+              { text: 'isSameTime', link: '/guide/utilities/Date-Utilities/isSameTime' },
+              { text: 'timeAgo', link: '/guide/utilities/Date-Utilities/timeAgo' },
+            ]
+          },
           { text: 'Math Utilities', link: '/' },
         ]
       },
