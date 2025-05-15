@@ -8,7 +8,7 @@ Returns a **human-readable** string that describes how much time has passed sinc
 
 ## Returns
 
-* `string`: A descriptive string.
+* `string`: A human-readable description of how much time has passed since the given date.
 
 ## Usage
 
